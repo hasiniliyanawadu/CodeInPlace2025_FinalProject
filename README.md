@@ -1,6 +1,6 @@
-# Code in Place 2024 Final Project
+# Code in Place 2025 Final Project
 
-Final project for the CIP 2024 online course from Stanford University.
+Final project for the CIP 2025 online course from Stanford University.
 
 # Mini Checkers Game
 
@@ -33,8 +33,8 @@ Checkers is a classic two-player board game. This version uses a 4x4 board inste
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/EvelinRodriguezSmeding/CodeInPlace2024_FinalProject.git
-    cd CodeInPlace2024_FinalProject
+    git clone https://github.com/hasiniliyanawadu/CodeInPlace2025_FinalProject.git
+    cd CodeInPlace2025_FinalProject
 
     ```
 

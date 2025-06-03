@@ -2,7 +2,7 @@
 
 Final project for the CIP 2025 online course from Stanford University.
 
-# Mini Checkers Game
+# Checkers Lite Game
 
 ## Description
 
